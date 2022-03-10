@@ -1,0 +1,9 @@
+<XML>
+  <CredictCardPurchase>
+    <Merchant>Evil llc</Merchant>
+      <Buyer>Mich Micho</Buyer>
+      <Date>10/02/2001</Date>
+      <Amount>$540.00</Amount>
+      <CCNumber>244-244-244-244</CCNumber>
+  </CredictCardPurchase>
+</XML>
